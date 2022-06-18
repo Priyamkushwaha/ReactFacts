@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# unwanted files for github
+./public
+./src/reportWebVitals.js
+./src/setupTests.js
+./package-lock.json
+./package.json
